@@ -75,9 +75,11 @@
                <h2>This project is completely done by</h2>
 	   			<h1>SHOAIB RAHMAN</h1>
                <h1>ID: 162-35-1688</h1>
-               <span class="button stroke smoothscroll" title="">Daffodil Int University</span>
+               <h3>Dept of SWE</h3>
+               <h3>Daffodil Int University</h3>
+               <span class="button stroke smoothscroll" title="">Covered Topics</span>
 	   			<p class="intro-position">
-	   				Covered Topics:<span>Insert</span>
+	   				<span>Insert</span>
 	   				<span>Update</span> 
                   <span>Delete</span> 
                   <span>Retrieve</span> 
