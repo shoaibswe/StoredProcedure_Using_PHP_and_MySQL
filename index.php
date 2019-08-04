@@ -84,7 +84,6 @@
                   <span>Delete</span> 
                   <span>Retrieve</span> 
 	   			</p>
-
 	   		</div>  
    			
    		</div>   		 		
